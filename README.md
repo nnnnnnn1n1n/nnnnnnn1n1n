@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nnnnnnn1n1n
 - 👀 I’m interested in full web development
 - 🌱 I’m currently learning flutter and website design
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on web app developer
 - 📫 How to reach me ..
 
 <!---
